@@ -10,7 +10,7 @@ split before being grouped in a batch.
 
 Wave picking is ideal for warehouses that need to optimize the handling of high order volumes while
 managing complex picking criteria. With wave transfers, orders are grouped into waves based on
-factors like product location, category, or schedule shipping times. Each wave is assigned to a
+factors like product location, category, or scheduled shipping times. Each wave is assigned to a
 different employee for the most efficient execution.
 
 Wave picking is particularly useful for operations where multiple sales orders (SOs), or a single
